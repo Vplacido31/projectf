@@ -33,14 +33,14 @@ h1 {
   background: #fff;
   padding: 0.5rem;
   border-radius: 8px;
-  box-shadow: 0 8px 8px 0px rgb(194, 158, 158);
+  box-shadow: 0 8px 8px 0px #d96568;
   margin: 1rem;
   font-size: 0.5rem;
 }
 
 .form-group input {
   padding: 12px;
-  border: 1px solid #ddd;
+ 
   border-radius: 4px;
   font-size: 16px;
   width: 100%;
